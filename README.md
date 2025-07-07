@@ -7,4 +7,5 @@ codeshift = 2.01
 codeshift2 += codeshift*15
 
 #meat and potatoes go here
+notEnough = 14
 
